@@ -1,0 +1,6 @@
+.canvas {
+  display: inline-grid;
+  grid-template-columns: repeat(16, 32px);
+  grid-template-rows: repeat(16, 32px);
+  grid-gap: 2px 2px;
+}
